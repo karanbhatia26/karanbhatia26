@@ -152,7 +152,7 @@ class Karan:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Karan%20Bhatia?theme=nord&font=Noto%20Sans&ext=activity)](https://leetcode.com/Karan%20Bhatia)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Karan%20Bhatia?theme=nord&font=Noto%20Sans&ext=activity)](https://leetcode.com/Karan_Bhatia)
 
 </div>
 
