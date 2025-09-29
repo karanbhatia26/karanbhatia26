@@ -51,8 +51,8 @@ class Karan:
 </div>
 
 ### 🎯 Competitive Programming
-- 🥇 **LeetCode Contest Rating: 1805** (Top 7.36% globally)
-- 🔥 **400+ Problems Solved** across various platforms
+- 🥇 **LeetCode: Knight Badge** (Max Rating: **1964**) (Top 3% globally)
+- 🔥 **500+ Problems Solved** across various platforms
 - 📈 Consistent problem-solving streak
 
 ### 🏅 Hackathons & Competitions
@@ -118,7 +118,7 @@ class Karan:
 - 🧠 **Novel algorithm** for fully automated ML pipeline generation
 - 👥 **Multi-agent system** with teacher-student collaboration
 - 🎯 **Top 1% accuracy** on standard benchmarks using MARL
-- 📄 **Research paper** submitted to JMLR
+- 📄 **Research paper** submitted to ICLR
 
 **Tech Stack:** `Python` `PyTorch` `OpenAI-GYM` `Reinforcement Learning`
 
@@ -181,7 +181,7 @@ class Karan:
 - 👨‍💼 **Led team** of peer interns through complete SDLC of enterprise project
 - 🏗️ **Engineered scalable backend** with API middleware for text/voice inputs
 - 🗃️ **Optimized data flow** for 100,000+ rows with SQL-based training pipeline
-- 💼 **Primary technical liaison** presenting to supervisors and managers
+- 💼 **Primary technical point of contact** presenting to supervisors and managers
 
 ### 📝 Junior Web Editor - Computer Society of India, VESIT
 **October 2023 – September 2024 | Mumbai, India**
